@@ -1,0 +1,107 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+
+.views-field-field-image .field-content img {
+    width: 100%;
+    height: 200px;
+}
+
+.images a img {
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+
+.images .fecha {
+    position: absolute;
+    top: 155px;
+    right: 18px;
+    padding: 5px 10px 5px 25px;
+    background-color: rgba(51, 160, 69, 0.733);
+    color: white;
+}
+
+.field-name-body p {
+    font-family: "PT Serif", Georgia, "Times New Roman", serif;
+    font-size: 1.9rem;
+    line-height: 1.75;
+    text-align: justify;
+}
+
+.region-sidebar-second .block {
+    border: 2px #362e77;
+    background-color: #93c54b;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    color: white;
+}
+
+.region-sidebar-second .block a {
+    color: white;
+}
+
+.region-sidebar-second .block-search {
+    background-color: white;
+    padding-top: 5px;
+}
+
+.region-sidebar-second .block-menu .block-title {
+    display: none;
+}
+
+.html {
+    background-color: #c9c595;
+}
+
+.main-container {
+    background-color: white !important;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.navbar .navbar-brand {
+    color: black;
+    font-family: "PT Serif", Georgia, "Times New Roman", serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 1;
+    margin: 5px 15px 0 15px;
+    padding: none;
+}
+
+.slogan {
+    font-size: 2.1rem;
+    font-style: italic;
+    color: #999;
+    margin-bottom: 4.5rem;
+}
+
+.navbar .navbar-brand:hover {
+    color: black;
+}
+
+.navbar-inverse {
+    background-color: white;
+    border-color: white;
+}
+
+.navbar.container {
+    max-width: 1170px;
+}
+
+.footer {
+    background-color: white !important;
+    margin-top: 0;
+}
+
+.field-name-field-image {
+    margin-bottom: 3rem;
+}
+
+
+/**
